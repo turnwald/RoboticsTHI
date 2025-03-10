@@ -4,7 +4,7 @@
   <name>test_ros2_com</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="turnwald@todo.todo">turnwald</maintainer>
+  <maintainer email="alen.turnwald@thi.de">turnwald</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
